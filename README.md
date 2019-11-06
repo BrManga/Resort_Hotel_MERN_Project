@@ -1,4 +1,7 @@
 React Project -  Beach Resort by Coding Addict John Smilga<br>
+You can see the project from the following website
+https://best-beach-resort-hotel.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
